@@ -1,4 +1,4 @@
-#BlueShiner
+# BlueShiner
 
 ### vimrc
 There is only one thing we should notice: " set backspace=2 ".  
