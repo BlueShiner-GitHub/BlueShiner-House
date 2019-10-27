@@ -31,6 +31,7 @@ Syntas Tutorial: https://guides.github.com/features/mastering-markdown/
 ## Vim
 ### include:
 my setting file (./vimrc)  
+Beautify: https://github.com/liuchengxu/space-vim  
 shortcut Tutorial: http://linux.vbird.org/linux_basic/0310vi.php  
 
 
