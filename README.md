@@ -40,6 +40,9 @@ shortcut Tutorial: http://linux.vbird.org/linux_basic/0310vi.php
 install Tutorial: https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f  
 my setting file (./zshrc)
 
+## iStat (to Monitor CPU and Fan in terminal )
+sudo gem install iStat
+// use it with "iStats" command after installation.
 
 
 ## Ubuntu 18.04
