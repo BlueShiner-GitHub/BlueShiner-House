@@ -44,6 +44,15 @@ my setting file (./zshrc)
 sudo gem install iStat
 // use it with "iStats" command after installation.
 
+## Macbook Terminal skills
+**here:**    https://www.slideshare.net/liweitw/20141119-mac-os-terminal-42332054
+clear  ls  mkdir  cd  history
+
+pwd  !  ls -alh  chown  chmod  touch  tail  &  >  ps
+grep  |  kill
+
+
+
 
 ## Ubuntu 18.04
 ## C
