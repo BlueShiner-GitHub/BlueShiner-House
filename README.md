@@ -58,6 +58,7 @@ sudo gem install iStat
 > mkdir  
 > cd  
 > history  
+> alias  
   
 > pwd  
 > !  
