@@ -44,27 +44,34 @@ my setting file (./zshrc)
 sudo gem install iStat
 // use it with "iStats" command after installation.
 
+## Homebrew
+**update:** brew update
+
+## pip3
+**update:** pip install --upgrade pip
+
 ## Macbook Terminal skills
 **here:**    https://www.slideshare.net/liweitw/20141119-mac-os-terminal-42332054  
-~~CLear~~
-~~ls~~
-~~mkdir~~
-~~cd~~
-~~history~~
+> cd -
+> Clear
+> ls
+> mkdir
+> cd
+> history
 
-~~pwd~~
-~~!~~
-~~ls -alh~~
-~~chown~~
-~~chmod~~
-~~touch~~
-~~tail~~
-~~&~~
-~~>~~
-~~ps~~
-~~grep~~
-~~|~~
-~~kill~~
+> pwd
+> !
+> ls -alh
+> chown
+> chmod
+> touch
+> tail
+> &
+> ">"
+> ps
+> grep
+> |
+> kill
 
 
 
