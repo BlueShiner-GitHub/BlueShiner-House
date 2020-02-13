@@ -52,26 +52,26 @@ sudo gem install iStat
 
 ## Macbook Terminal skills
 **here:**    https://www.slideshare.net/liweitw/20141119-mac-os-terminal-42332054  
-> cd -
-> Clear
-> ls
-> mkdir
-> cd
-> history
-
-> pwd
-> !
-> ls -alh
-> chown
-> chmod
-> touch
-> tail
-> &
-> ">"
-> ps
-> grep
-> |
-> kill
+> cd -  
+> Clear  
+> ls  
+> mkdir  
+> cd  
+> history  
+  
+> pwd  
+> !  
+> ls -alh  
+> chown  
+> chmod  
+> touch  
+> tail  
+> &  
+> ">"  
+> ps  
+> grep  
+> |  
+> kill  
 
 
 
